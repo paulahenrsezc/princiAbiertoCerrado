@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace princAbiertoCerrado
+namespace princiAbiertoCerrado
 {
     public class HybridCourse : Course
     {
